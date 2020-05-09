@@ -1,5 +1,31 @@
 # SpitePNP
-The lord commander of engineers is returning to his procastibatory task.
+The lord commander of engineers is a 
+░░░░█─────────────█──▀──
+
+░░░░▓█───────▄▄▀▀█──────
+
+░░░░▒░█────▄█▒░░▄░█─────
+
+░░░░░░░▀▄─▄▀▒▀▀▀▄▄▀──DO─
+
+░░░░░░░░░█▒░░░░▄▀────IT──
+
+▒▒▒░░░░▄▀▒░░░░▄▀───FOR──
+
+▓▓▓▓▒░█▒░░░░░█▄───BILLY──
+
+█████▀▒░░░░░█░▀▄────────
+
+█████▒▒░░░▒█░░░▀▄───────
+
+███▓▓▒▒▒▀▀▀█▄░░░░█──────
+
+▓██▓▒▒▒▒▒▒▒▒▒█░░░░█─────
+
+▓▓█▓▒▒▒▒▒▒▓▒▒█░░░░░█────
+
+░▒▒▀▀▄▄▄▄█▄▄▀░░░░░░░█─
+returning to his procastibatory task.
 
 This is where all PNP project related things will be saved. BOMs, PCBs, 3D Files, etc.
 
