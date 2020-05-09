@@ -32,7 +32,7 @@ This is where all PNP project related things will be saved. BOMs, PCBs, 3D Files
 
 # Current tasks
 Automatic feeder:
-- Should support standard tape sizes: 8mm, 12mm, 24mm.
+- Should support standard tape sizes: 8mm, 12mm, 16mm, 24mm.
 - Minimal electronics.
 - Addressable.
 
