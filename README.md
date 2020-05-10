@@ -1,4 +1,4 @@
-# The lord commander of engineers compensation 
+# The lord commander of engineers ~~compensation~~ magnificence 
 
 ░░░░█─────────────█──▀──
 
