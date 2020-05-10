@@ -1,5 +1,4 @@
-# SpitePNP
-The lord commander of engineers is a 
+
 
 ░░░░█─────────────█──▀──
 
@@ -26,7 +25,9 @@ The lord commander of engineers is a
 ▓▓█▓▒▒▒▒▒▒▓▒▒█░░░░░█────
 
 ░▒▒▀▀▄▄▄▄█▄▄▀░░░░░░░█─
-returning to his procastibatory task.
+
+# SpitePNP
+The lord commander of engineers is a returning to his procastibatory task.
 
 This is where all PNP project related things will be saved. BOMs, PCBs, 3D Files, etc.
 
