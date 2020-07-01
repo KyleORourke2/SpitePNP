@@ -1,30 +1,6 @@
 # The lord commander of engineers ~~compensation~~ magnificence 
 
-░░░░█─────────────█──▀──
-
-░░░░▓█───────▄▄▀▀█──────
-
-░░░░▒░█────▄█▒░░▄░█─────
-
-░░░░░░░▀▄─▄▀▒▀▀▀▄▄▀─────
-
-░░░░░░░░░█▒░░░░▄▀───────
-
-▒▒▒░░░░▄▀▒░░░░▄▀────────
-
-▓▓▓▓▒░█▒░░░░░█▄─────────
-
-█████▀▒░░░░░█░▀▄────────
-
-█████▒▒░░░▒█░░░▀▄───────
-
-███▓▓▒▒▒▀▀▀█▄░░░░█──────
-
-▓██▓▒▒▒▒▒▒▒▒▒█░░░░█─────
-
-▓▓█▓▒▒▒▒▒▒▓▒▒█░░░░░█────
-
-░▒▒▀▀▄▄▄▄█▄▄▀░░░░░░░█─
+I had to remove the magnificence since my github may be looked at by UCSC for graduation stuff...
 
 # SpitePNP
 The lord commander of engineers is a returning to his procastibatory task.
